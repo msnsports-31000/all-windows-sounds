@@ -1,4 +1,4 @@
 I made this because no database conveniently contained every Windows sound.
 
-© 1992-2021 Microsoft
+© 1992-2025 Microsoft
 (I don't own any of the audio featured here.)
